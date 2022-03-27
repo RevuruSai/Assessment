@@ -1,0 +1,162 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "docterName": "Hari",
+      "mobile": 9876543210,
+      "age": 57,
+      "gender": "Male",
+      "specialization": "General physician"
+    },
+    {
+      "id": 2,
+      "docterName": "arun",
+      "mobile": 4353453,
+      "age": 43,
+      "gender": "Male",
+      "specialization": "Cardilogist"
+    },
+    {
+      "id": 3,
+      "docterName": "Tulasi",
+      "mobile": 8749330302,
+      "age": 34,
+      "gender": "Female",
+      "specialization": "Orthopedician"
+    },
+    {
+      "id": 4,
+      "docterName": "Dharani",
+      "mobile": 6392048494,
+      "age": 36,
+      "gender": "Female",
+      "specialization": "Cardiologist"
+    },
+    {
+      "id": 5,
+      "docterName": "Sai",
+      "mobile": 5734834830,
+      "age": 54,
+      "gender": "Male",
+      "specialization": "54543"
+    },
+    {
+      "id": 6,
+      "docterName": "Sai",
+      "mobile": 7891038372,
+      "age": 34,
+      "gender": "Male",
+      "specialization": "General physician"
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "submitPatient": [
+    {
+      "id": 1,
+      "patientName": "Mounika",
+      "mobile": 6894389384,
+      "appointmentDate": "2021-12-05",
+      "appointmentTime": "16:12",
+      "selectedDocter": "Sai"
+    },
+    {
+      "id": 2,
+      "patientName": "Omkar",
+      "mobile": 9989913050,
+      "appointmentDate": "2021-12-14",
+      "appointmentTime": "02:05",
+      "selectedDocter": "Tulasi"
+    },
+    {
+      "id": 3,
+      "patientName": "Ram",
+      "mobile": 9951462971,
+      "appointmentDate": "2022-02-14",
+      "appointmentTime": "14:18",
+      "selectedDocter": "Dharani"
+    },
+    {
+      "id": 4,
+      "patientName": "Swetha",
+      "mobile": 7858392921,
+      "appointmentDate": "2022-02-21",
+      "appointmentTime": "01:13",
+      "selectedDocter": "Hari"
+    },
+    {
+      "id": 5,
+      "patientName": "Haritha",
+      "mobile": 9685968695,
+      "appointmentDate": "2022-03-25",
+      "appointmentTime": "11:18",
+      "selectedDocter": "Tulasi"
+    },
+    {
+      "id": 6,
+      "patientName": "Hari",
+      "mobile": 789653567,
+      "appointmentDate": "2022-04-01",
+      "appointmentTime": "11:36",
+      "selectedDocter": "Sai"
+    },
+    {
+      "patientName": "Hari",
+      "mobile": 987653225,
+      "appointmentDate": "2022-03-26",
+      "appointmentTime": "16:08",
+      "selectedDocter": "Sai",
+      "id": 7
+    }
+  ],
+  "signupUser": [
+    {
+      "fullname": "Hari",
+      "email": "hari@gmail.com",
+      "password": "hari",
+      "mobile": "7483920201",
+      "id": 1
+    },
+    {
+      "fullname": "Hari",
+      "email": "hari@gmail.com",
+      "password": "hari",
+      "mobile": 8765432190,
+      "id": 2
+    },
+    {
+      "fullname": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna",
+      "mobile": 7585484944,
+      "id": 3
+    },
+    {
+      "fullname": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna",
+      "mobile": 7896543210,
+      "id": 4
+    },
+    {
+      "fullname": "krish",
+      "email": "krish@gmail.com",
+      "password": "krish",
+      "mobile": 876584745,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
